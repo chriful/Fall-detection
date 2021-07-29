@@ -28,7 +28,7 @@ from utils.utility import *
 import cv2
 import threading
 import os
-import preprocess
+from lib import preprocess
 
 flag = 0
 ff=0
